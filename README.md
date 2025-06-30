@@ -26,7 +26,7 @@ Este projeto é um exercício simples em Java que simula a criação de uma cont
 
 Exemplo de execução:
 
-Óla seja bem vindo, Por favor digite seu nome:
+olá seja bem vindo, Por favor digite seu nome:
 
 João
 
