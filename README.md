@@ -29,12 +29,15 @@ Exemplo de execução:
 Óla seja bem vindo, Por favor digite seu nome:
 
 João
+
 Por favor digite seu Numero da conta:
 
 1234
+
 Por favor digite sua Agencia:
 
 0001
+
 Por favor digite o valor que deseja depositar:
 
 500.00
