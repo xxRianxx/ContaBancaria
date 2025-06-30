@@ -27,12 +27,18 @@ Este projeto é um exercício simples em Java que simula a criação de uma cont
 Exemplo de execução:
 
 Óla seja bem vindo, Por favor digite seu nome:
+
 João
 Por favor digite seu Numero da conta:
+
 1234
 Por favor digite sua Agencia:
+
 0001
 Por favor digite o valor que deseja depositar:
+
 500.00
+
 Óla João, obrigado por criar uma conta em nosso banco, sua agência é 0001 e a conta é 1234 e seu saldo 500.0 já está disponível para saque
+
 Deseja retirar algum valor? se sim responda: sim, se não responda: nao
